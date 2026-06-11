@@ -1,0 +1,20 @@
+{
+  "node": "N8nDevApisetuGovDgecerttn",
+  "nodeVersion": "1.0",
+  "codexVersion": "1.0",
+  "categories": [
+    "Development"
+  ],
+  "resources": {
+    "primaryDocumentation": [
+      {
+        "url": "https://github.com/n8n-code/n8n-nodes-apisetu-gov-dgecerttn"
+      }
+    ],
+    "credentialDocumentation": [
+      {
+        "url": "https://github.com/n8n-code/n8n-nodes-apisetu-gov-dgecerttn?tab=readme-ov-file#credentials"
+      }
+    ]
+  }
+}
